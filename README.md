@@ -11,7 +11,7 @@ I'm a machine learning engineer and a graduate student dedicated to tackling cha
 
 ## 📚 Publications
 
-- [**Survey on AI Ethics: A Socio-technical Perspective**](https://arxiv.org/abs/2311.17228)  
+- [**(Pre-print) Survey on AI Ethics: A Socio-technical Perspective**](https://arxiv.org/abs/2311.17228)  
 - [**HinglishNLP: Language Models for Hinglish Sentiment Detection**](https://arxiv.org/abs/2008.09820)  
 
 ## 🌐 Let's Connect
