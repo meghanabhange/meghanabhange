@@ -1,6 +1,6 @@
 # [Meghana Bhange](https://meghanabhange.com)
 
-- 🔬 PhD Researcher at ÉTS Montréal and [Mila - Quebec AI Institute](https://mila.quebec/en/meghana-bhange)  
+- 🔬 PhD Researcher at [ÉTS Montréal](https://www.etsmtl.ca) and [Mila - Quebec AI Institute](https://mila.quebec/en/meghana-bhange)  
 - 💼 Freelance Machine Learning Engineer at [Toptal](https://www.toptal.com/resume/meghana-bhange)
 
 ## 👋 About Me
