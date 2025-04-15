@@ -7,8 +7,6 @@
 
 Hi! I’m <strong>Meghana Bhange</strong> — a researcher and engineer working at the intersection of <strong>machine learning, privacy, and social impact</strong>.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=meghanabhange&show_icons=true&theme=monokai&count_private=true" alt="Meghana's GitHub stats" width="380" />
-
 My current research investigates <strong>Algorithmic Collective Action</strong> as a lens for designing socio-technical systems that empower communities — not just individuals — to resist harm and reclaim agency. 🌍🤖 I pursue this direction as a PhD researcher at the <a href="https://tisl-lab.github.io/" target="_blank">Trustworthy Information Systems Lab (TISL)</a> and <a href="https://mila.quebec/en/meghana-bhange" target="_blank">Mila – Quebec AI Institute</a>, under the supervision of <a href="https://aivodji.github.io/" target="_blank">Prof. Ulrich Aïvodji</a>.
 
 You can follow my updates about the project at <a href="https://aca.meghanabhange.com" target="_blank"><strong>aca.meghanabhange.com</strong></a> and my personal website/blog <a href="https://meghanabhange.com" target="_blank"><strong>meghanabhange.com</strong></a>
